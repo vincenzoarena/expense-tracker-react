@@ -116,10 +116,6 @@ input::placeholder {
   width: 100%;
 }
 
-.delete-btn {
-  border-radius: 5px;
-}
-
 .btn:focus,
 .delete-btn:focus {
   outline: 0;
@@ -154,6 +150,7 @@ input::placeholder {
   cursor: pointer;
   background-color: #e74c3c;
   border: 0;
+  border-radius: 5px;
   color: #fff;
   font-size: 20px;
   line-height: 20px;
