@@ -116,6 +116,10 @@ input::placeholder {
   width: 100%;
 }
 
+.delete-btn {
+  border-radius: 5px;
+}
+
 .btn:focus,
 .delete-btn:focus {
   outline: 0;
