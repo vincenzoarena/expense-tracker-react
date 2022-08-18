@@ -150,7 +150,7 @@ input::placeholder {
   cursor: pointer;
   background-color: #e74c3c;
   border: 0;
-  border-radius: 5px;
+  border-radius: 5px 0 0 5px;
   color: #fff;
   font-size: 20px;
   line-height: 20px;
